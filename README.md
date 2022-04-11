@@ -4,4 +4,4 @@
 
 This website is a simple Guess my number game using random number generation.
 
-![Website Preview]("Guess my Number.png")
+![Website Preview](PreviewImage.png)
